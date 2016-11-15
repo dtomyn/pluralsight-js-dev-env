@@ -6,4 +6,5 @@ import chalk from 'chalk'; //module syntax
 //in order for the above to work though, can no longer
 //use just "node"... have to use "babel-code"
 
-console.log(chalk.green('starting app  in dev mode...'));
+console.log(chalk.green('starting app  in dev mode...')); // eslint-disable-line no-console
+//NOTE: above comment will disable eslint from checking console rule

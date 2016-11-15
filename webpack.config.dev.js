@@ -1,3 +1,4 @@
+//since we are using babel-code, again, we can use ES2015
 import path from 'path';
 
 export default {
