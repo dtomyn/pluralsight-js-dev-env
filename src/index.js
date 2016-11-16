@@ -1,6 +1,7 @@
 import './index.css';
 
 import {getUsers} from './api/userApi';
+import {deleteUser} from './api/userApi';
 
 // import numeral from 'numeral';
 
